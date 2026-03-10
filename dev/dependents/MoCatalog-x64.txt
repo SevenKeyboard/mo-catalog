@@ -1,0 +1,27 @@
+>dumpbin /dependents MoCatalog.dll
+Microsoft (R) COFF/PE Dumper Version 14.41.34120.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file MoCatalog.dll
+
+File Type: DLL
+
+  Image has the following dependencies:
+
+    boost_locale-vc143-mt-x64-1_90.dll
+    MSVCP140.dll
+    VCRUNTIME140_1.dll
+    VCRUNTIME140.dll
+    api-ms-win-crt-runtime-l1-1-0.dll
+    api-ms-win-crt-heap-l1-1-0.dll
+    KERNEL32.dll
+
+  Summary
+
+        1000 .data
+        1000 .pdata
+        2000 .rdata
+        1000 .reloc
+        1000 .rsrc
+        3000 .text
