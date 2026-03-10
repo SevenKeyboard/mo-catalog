@@ -1,0 +1,8 @@
+LIBRARY MoCatalog
+EXPORTS
+    MoCatalogCreate    = _MoCatalogCreate@12
+    MoCatalogDestroy   = _MoCatalogDestroy@4
+    MoCatalogGetText   = _MoCatalogGetText@16
+    MoCatalogNGetText  = _MoCatalogNGetText@24
+    MoCatalogNPGetText = _MoCatalogNPGetText@28
+    MoCatalogPGetText  = _MoCatalogPGetText@20
